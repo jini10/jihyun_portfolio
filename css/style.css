@@ -96,14 +96,16 @@ li {
 
 /*오른쪽 영역*/
 .right_box .profile_wrap a img{
-  width: 200.98px;
-  height: 200px;
+  width: 180px;
+  height: 180px;
 }
 .right_box .profile_wrap{ 
   display:flex;
-  margin-top:10px;
-  gap: 55px;
-  margin-bottom: 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }  
 /**/
 .profile_info{
@@ -179,6 +181,7 @@ letter-spacing: 4px;
   font-weight: 500;
   color: #111;
   padding-left: 26px;
+  margin-bottom: 22px;
 }
 
 /*오른쪽 본문*/
