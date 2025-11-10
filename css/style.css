@@ -1,11 +1,11 @@
-@font-face {
+ @font-face {
   font-family: "One Pop";
-  src: url(../font/ONE_Mobile_POP.ttf) format(truetype);
+  src: url(../font/ONEMobilePOP.ttf) format(truetype);
 }
 
 @font-face {
-  font-family: "One Title";
-  src: url(../font/ONE_Mobile_Title.ttf) format(truetype);
+  font-family: "One Mobile Title";
+  src: url(../font/ONEMobileTitle.ttf) format(truetype);
 }
 
 * {
