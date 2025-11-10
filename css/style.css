@@ -273,6 +273,10 @@ letter-spacing: 4px;
   outline: 1px solid #666;
 }
 
+.un_main a img:hover{
+  opacity: 0.7;
+}
+
 .un_share{
   display: flex;
   justify-content: space-between;
@@ -333,6 +337,10 @@ color: #111;
 .tj_main a img{
   outline: 1px solid #666;
 }
+.tj_main a img:hover{
+  opacity: 0.7;
+}
+
 
 .tj_share{
   display: flex;
